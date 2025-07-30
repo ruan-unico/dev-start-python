@@ -18,8 +18,11 @@ python hello.py
 
 🧠 Sobre mim
 -Conhecimento básico em Python
+
 -Interesse em atuar como desenvolvedor ou analista de sistemas
+
 -Buscando aprender e crescer na área de programação
+
 -Aberto a colaborar e receber feedback
 
 📫 Contato
