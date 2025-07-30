@@ -17,6 +17,7 @@ bash
 python hello.py
 
 🧠 Sobre mim
+
 -Conhecimento básico em Python
 
 -Interesse em atuar como desenvolvedor ou analista de sistemas
