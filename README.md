@@ -1,4 +1,5 @@
 👋 Olá! Bem-vindo ao meu primeiro projeto no GitHub
+
 Este é o início da minha jornada como desenvolvedor e analista de sistemas. Resolvi criar este repositório para consolidar meu aprendizado em Python e começar a construir meu portfólio. Se você chegou até aqui: muito prazer! 😄
 
 💻 Sobre o projeto
